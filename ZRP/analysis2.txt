@@ -1,0 +1,130 @@
+n=10
+
+average 71.3901
+total energy 713.901
+max energy consumed 89.5361
+total recieve packet size 6161408
+Start Time:  0.500000000  End Time:  149.834678681
+Average Throughput is=  165.146 kbps
+Send Packets = 12075.00
+Received Packets = 11987.00
+Routing Packets = 48266.00
+Packet Delivery Function = 99.27
+Normalised Routing Load = 4.03
+Average end to end delay(ms)= 370.37
+No. of dropped packets =  88
+packet drop % =  0.728778
+Retransmissions = 0
+Last Packet ID =14327
+
+n=20
+
+average 67.4451
+total energy 1348.9
+max energy consumed 89.2799
+total recieve packet size 7332864
+Start Time:  0.500000000  End Time:  149.995503434
+Average Throughput is=  196.367 kbps
+Send Packets = 14481.00
+Received Packets = 14241.00
+Routing Packets = 67166.00
+Packet Delivery Function = 98.34
+Normalised Routing Load = 4.72
+Average end to end delay(ms)= 327.44
+No. of dropped packets =  240
+packet drop % =  1.65734
+Retransmissions = 0
+Last Packet ID =23755
+
+n=30
+
+average 65.2211
+total energy 1956.63
+max energy consumed 77.9514
+total recieve packet size 6798336
+Start Time:  0.500000000  End Time:  149.996930476
+Average Throughput is=  182.228 kbps
+Send Packets = 13450.00
+Received Packets = 13111.00
+Routing Packets = 96224.00
+Packet Delivery Function = 97.48
+Normalised Routing Load = 7.34
+Average end to end delay(ms)= 666.64
+No. of dropped packets =  339
+packet drop % =  2.52045
+Retransmissions = 0
+Last Packet ID =32429
+
+n=40
+
+average 64.8164
+total energy 2592.66
+max energy consumed 76.6517
+total recieve packet size 6464512
+Start Time:  0.500000000  End Time:  149.995630714
+Average Throughput is=  173.407 kbps
+Send Packets = 12788.00
+Received Packets = 12529.00
+Routing Packets = 126487.00
+Packet Delivery Function = 97.97
+Normalised Routing Load = 10.10
+Average end to end delay(ms)= 630.20
+No. of dropped packets =  259
+packet drop % =  2.02534
+Retransmissions = 0
+Last Packet ID =41400
+
+n=60
+
+average 72.253
+total energy 4335.18
+max energy consumed 105.782
+total recieve packet size 21807104
+Start Time:  1.000000000  End Time:  149.998993471
+Average Throughput is=  586.557 kbps
+Send Packets = 43123.00
+Received Packets = 42458.00
+Routing Packets = 158679.00
+Packet Delivery Function = 98.46
+Normalised Routing Load = 3.74
+Average end to end delay(ms)= 180.61
+No. of dropped packets =  665
+packet drop % =  1.5421
+Retransmissions = 0
+Last Packet ID =64754
+
+n=80 
+
+average 71.3153
+total energy 5705.23
+max energy consumed 110.629
+total recieve packet size 20019200
+Start Time:  1.000000000  End Time:  149.993733062
+Average Throughput is=  538.743 kbps
+Send Packets = 39679.00
+Received Packets = 38863.00
+Routing Packets = 198300.00
+Packet Delivery Function = 97.94
+Normalised Routing Load = 5.10
+Average end to end delay(ms)= 243.96
+No. of dropped packets =  816
+packet drop % =  2.0565
+Retransmissions = 0
+Last Packet ID =80974
+
+n=100
+average 68.1795
+total energy 6817.95
+max energy consumed 96.5297
+total recieve packet size 22653952
+Start Time:  1.000000000  End Time:  149.999553796
+Average Throughput is=  609.646 kbps
+Send Packets = 45010.00
+Received Packets = 44074.00
+Routing Packets = 253698.00
+Packet Delivery Function = 97.92
+Normalised Routing Load = 5.76
+Average end to end delay(ms)= 240.15
+No. of dropped packets =  936
+packet drop % =  2.07954
+Last Packet ID =109397

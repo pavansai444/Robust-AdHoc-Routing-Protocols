@@ -1,0 +1,127 @@
+#-____--------------------------------n=10----------------------------------#
+average 70.035
+total energy 700.35
+Average Throughput is=  167.06 kbps
+Send Packets = 12240.00
+Received Packets = 12118.00
+Routing Packets = 635.00
+Packet Delivery Function = 99.00
+Normalised Routing Load = 0.05
+Average end to end delay(ms)= 427.53
+No. of dropped packets =  122
+packet drop % =  0.996732
+Retransmissions = 0
+Last Packet ID =12239
+
+#------------------n=20-----------------------#
+
+
+
+
+average 65.9155
+total energy 1318.31
+Average Throughput is=  179.29 kbps
+Send Packets = 13181.00
+Received Packets = 12869.00
+Routing Packets = 7421.00
+Packet Delivery Function = 97.63
+Normalised Routing Load = 0.58
+Average end to end delay(ms)= 736.59
+No. of dropped packets =  312
+packet drop % =  2.36704
+Retransmissions = 0
+Last Packet ID =13219
+
+
+#-------n=30------#
+average 64.4763
+total energy 1934.29
+Average Throughput is=  220.435 kbps
+Send Packets = 16371.00
+Received Packets = 15965.00
+Routing Packets = 17627.00
+Packet Delivery Function = 97.52
+Normalised Routing Load = 1.10
+Average end to end delay(ms)= 838.25
+No. of dropped packets =  406
+packet drop % =  2.48
+Retransmissions = 0
+Last Packet ID =16392
+
+
+#-----n=40-----#
+average 63.8876
+total energy 2555.5
+Average Throughput is=  221.502 kbps
+Send Packets = 16455.00
+Received Packets = 15959.00
+Routing Packets = 40088.00
+Packet Delivery Function = 96.99
+Normalised Routing Load = 2.51
+Average end to end delay(ms)= 831.05
+No. of dropped packets =  496
+packet drop % =  3.01428
+Retransmissions = 0
+Last Packet ID =16477
+
+#-----n=60----#
+average 69.581
+total energy 4174.86
+Average Throughput is=  528.097 kbps
+Send Packets = 39524.00
+Received Packets = 37717.00
+Routing Packets = 103080.00
+Packet Delivery Function = 95.43
+Normalised Routing Load = 2.73
+Average end to end delay(ms)= 245.75
+No. of dropped packets =  1807
+packet drop % =  4.57191
+Retransmissions = 0
+Last Packet ID =39523
+
+
+#----n=80---#
+average 69.051
+total energy 5524.08
+Average Throughput is=  577.586 kbps
+Send Packets = 42645.00
+Received Packets = 41511.00
+Routing Packets = 287727.00
+Packet Delivery Function = 97.34
+Normalised Routing Load = 6.93
+Average end to end delay(ms)= 251.04
+No. of dropped packets =  1134
+packet drop % =  2.65916
+Retransmissions = 0
+Last Packet ID =42644
+
+
+#---n=100---#
+average 67.3483
+total energy 6734.83
+Average Throughput is=  697.919 kbps
+Send Packets = 51693.00
+Received Packets = 49770.00
+Routing Packets = 706730.00
+Packet Delivery Function = 96.28
+Normalised Routing Load = 14.20
+Average end to end delay(ms)= 213.39
+No. of dropped packets =  1923
+packet drop % =  3.72004
+Retransmissions = 0
+Last Packet ID =51692
+
+
+#----------n=10 udp-------#
+Average Throughput is=  0 kbps
+Send Packets = 635.00
+Received Packets = 209.00
+Routing Packets = 79.00
+Packet Delivery Function = 32.91
+Normalised Routing Load = 0.38
+Average end to end delay(ms)= 525.05
+No. of dropped packets =  426
+packet drop % =  67.0866
+Retransmissions = 0
+Last Packet ID =634
+#------------------------------------________#
